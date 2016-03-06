@@ -2,3 +2,5 @@
 This is learning game - clone of minesweeper. First completed Unity project.
 
 Here I put all scripts for the game and web compiled code of the game.
+
+Currently the game is on http://alexfetisov.github.io
